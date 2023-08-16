@@ -27,5 +27,5 @@
 <p><a href="https://www.buymeacoffee.com/Support Me"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Support Me" /></a><a href="https://ko-fi.com/fsdfs"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fsdfs" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilmichel&show_icons=true&locale=en&layout=compact" alt="anilmichel" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilmichel&show_icons=true&locale=en" alt="anilmichel" /></p>
